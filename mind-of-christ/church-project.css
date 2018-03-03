@@ -1,0 +1,91 @@
+.header {
+	height: 200px;
+
+}
+.image {
+	width: 15%;
+	float: left;
+}
+.jumbotron {
+	width: 70%;
+	float: left;
+	text-align: center;
+	background-color: #eeead4;
+	height: 200px;
+	color: chocolate;
+	padding-bottom: 50px;
+	padding-top: 10px;
+}
+.logo {
+	width: 15%;
+	float: left;
+}
+
+
+.clear {
+	clear: both;
+}
+
+.col-md-4 {
+	text-align: absolute;
+}
+body {
+	margin: 0px;
+	background-color: #f0fff0;
+}
+.programme{
+	background-color: #f2f0f3;
+}
+.footer {
+	background: #3d2b1f;
+	color: white;
+}
+.conclussion {
+	text-align: center;
+}
+ul.c1 {
+	position: absolute;
+	left: 35em;
+}
+ul.c2 {
+	position: absolute;
+	left: 45em;
+}
+.history-page {
+	margin-top: 0px;
+}
+@font-face {
+		 font-family: 'HelveticalNeue-Light';
+		 src: url('Helvetica/HelveticaNeueCyr-Light.otf');
+		}
+@font-face {
+		 font-family: 'HelveticalNeue-Ultralight';
+		 src: url('Helvetica/HelveticaNeueCyr-UltraLight.otf');
+		}
+@font-face {
+	font-family: 'HelveticalNeue-Italic';
+	src: url('Helvetica/HelveticaNeueCyr-Italic.otf');
+}
+@font-face {
+	font-family: 'HelveticalNeue-LightItalic';
+	src: url('Helvetica/HelveticaNeueCyr-LightItalic.otf');
+}
+@@font-face {
+	font-family: 'HelveticalNeue-Medium';
+	src: url('Helvetica/HelveticaNeueCyr-Medium.otf');
+}
+#h1 {
+	font-family: 'HelveticalNeue-Medium';
+}
+#h2 {
+	font-family: 'HelveticalNeue-Italic';
+}
+#h3 {
+	font-family: 'HelveticalNeue-LightItalic';
+}
+#h4 {
+	font-family: 'HelveticalNeue-Ultralight';
+}
+#h5 {
+	font-family: 'HelveticalNeue-Light';
+}
